@@ -29,6 +29,7 @@ Before you begin, ensure you have the following installed:
 3. Set up NovaAI Integration:
 
     - Obtain NovaAI API credentials and configure them in the application.
+    https://nova-oss.com/get-started
 
 ## Usage
 
