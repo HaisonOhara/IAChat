@@ -5,6 +5,6 @@ const app = express();
 app.use(express.json)
 app.use(routes)
 
-//ISSO É SERVER
+console.log("HAISON ESTEVE AQUI")
 const port = 8000;
 app.listen(port, () => {  console.log('We are live on server ' + port);});
